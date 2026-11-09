@@ -1,0 +1,35 @@
+{
+  "name": "DualScreen",
+  "identifier": "com.dualscreen.source",
+  "subtitle": "Second-screen workspace for iPad",
+  "iconURL": "https://raw.githubusercontent.com/yewcheng/apps/main/dualscreen/icon.png",
+  "apps": [
+    {
+      "name": "DualScreen",
+      "bundleIdentifier": "com.dualscreen.workspace",
+      "developerName": "yewcheng",
+      "subtitle": "Turn an HDMI monitor into a real workspace",
+      "localizedDescription": "Renders a window manager on a USB-C/HDMI display while the iPad acts as the control surface: launcher, pointer pad, snapping and per-app input. Includes web, notes, calculator, PDF, files, dashboard and clock windows.",
+      "iconURL": "https://raw.githubusercontent.com/yewcheng/apps/main/dualscreen/icon.png",
+      "tintColor": "1E2438",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.3.39",
+          "date": "2026-11-05",
+          "localizedDescription": "Automated build.",
+          "downloadURL": "https://raw.githubusercontent.com/yewcheng/apps/main/dualscreen/DualScreen-0.3.39.ipa",
+          "size": 622877,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "0.3.39",
+      "versionDate": "2026-11-05",
+      "versionDescription": "Automated build.",
+      "downloadURL": "https://raw.githubusercontent.com/yewcheng/apps/main/dualscreen/DualScreen-0.3.39.ipa",
+      "size": 622877
+    }
+  ],
+  "news": []
+}

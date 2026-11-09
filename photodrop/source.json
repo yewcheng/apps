@@ -1,0 +1,35 @@
+{
+  "name": "PhotoDrop",
+  "identifier": "com.photodrop.source",
+  "subtitle": "Original photos to your laptop",
+  "iconURL": "https://raw.githubusercontent.com/yewcheng/apps/main/photodrop/icon.png",
+  "apps": [
+    {
+      "name": "PhotoDrop",
+      "bundleIdentifier": "com.photodrop.backup",
+      "developerName": "yewcheng",
+      "subtitle": "Original photos to your laptop",
+      "localizedDescription": "Copies original photos, videos and Live Photos to your own laptop over Tailscale.",
+      "iconURL": "https://raw.githubusercontent.com/yewcheng/apps/main/photodrop/icon.png",
+      "tintColor": "1E6FD9",
+      "category": "utilities",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "0.1.52",
+          "date": "2026-11-08",
+          "localizedDescription": "Automated build.",
+          "downloadURL": "https://raw.githubusercontent.com/yewcheng/apps/main/photodrop/PhotoDrop-0.1.52.ipa",
+          "size": 2564019,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "0.1.52",
+      "versionDate": "2026-11-08",
+      "versionDescription": "Automated build.",
+      "downloadURL": "https://raw.githubusercontent.com/yewcheng/apps/main/photodrop/PhotoDrop-0.1.52.ipa",
+      "size": 2564019
+    }
+  ],
+  "news": []
+}
